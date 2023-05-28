@@ -262,7 +262,7 @@
 	}
 
 
-	@media (prefers-color-scheme: white) {
+	@media (prefers-color-scheme: dark) {
 		main {
 			background-color: #25013f;
 		}
