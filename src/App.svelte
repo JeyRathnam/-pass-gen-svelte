@@ -240,6 +240,21 @@
 		font-size: 5vw;
 		font-weight: 600;
 	}
+
+	.slider {
+		width: 50vw;
+		height: 2px;
+	}
+
+	.slider::-webkit-slider-thumb  { 
+		width: 15px;
+		height: 30px;
+	}
+
+	.slider::-moz-range-thumb {
+		width: 15px;
+		height: 30px;
+	}
 	}
 
 
@@ -265,7 +280,8 @@
 		}
 
 		.slider {
-			background-color: #e9e9e9;;
+			background-color: #e9e9e9;
+			
 		}
 	}
 </style>
