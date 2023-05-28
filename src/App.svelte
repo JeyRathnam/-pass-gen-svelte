@@ -241,6 +241,10 @@
 		font-weight: 600;
 	}
 
+	.password div svg {
+		width: 4em;
+	}
+
 	.slider {
 		width: 50vw;
 		height: 2px;
