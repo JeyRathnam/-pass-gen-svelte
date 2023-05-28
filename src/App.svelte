@@ -186,7 +186,7 @@
 .slider {
   -webkit-appearance: none;
   appearance: none;
-  width: 20%;
+  width: 30vw;
   height: 5px;
   background-color: #e4dddd;
   outline: none;
